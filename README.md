@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 Hi I'm Awais Ali Shah
-<h3 align="center">A passionate Python Django BackenD Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Python Django Backend Developer from Pakistan 🇵🇰</h3>
 🧠 I’m currently working on<br>Building and maintaining Django backend systems with REST APIs (DRF), database integration (SQLite, PostgreSQL), and Dockerized environments.<br><br>🤝 I’m looking to collaborate on<br>Open source Django or security-related projects, and scalable web applications.<br><br>🙋‍♂️ I’m looking for help with<br>Advanced Kubernetes deployment and container orchestration.<br><br>🌱 I’m currently learning<br>Kubernetes, DevOps practices, and cloud-native technologies.<br><br>💬 Ask me about<br>Django, REST APIs, database optimization, security testing (pentesting), and deploying scalable backend services.<br><br>⚡ Fun fact<br>I love bridging the gap between backend development and security testing!<br><br>📧 Email: awaisalishah02@gmail.com<br>📱 WhatsApp: 0341-9150049<br>🔗 LinkedIn: Awais Ali Shah<br>🎥 TikTok: @python_django_dev
 
 
