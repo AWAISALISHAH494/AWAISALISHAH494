@@ -103,8 +103,9 @@ I love working at the intersection of **backend development + cybersecurity**, e
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AWAISALISHAH494&theme=radical&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AWAISALISHAH494&theme=onestar&row=1&margin-w=15" />
 </p>
+
 
 ---
 
