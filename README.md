@@ -226,11 +226,15 @@ dev = AwaisAliShah()
 
 ---
 
-## 📌 Pinned Repositories
+## � Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AWAISALISHAH494?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  <i>Check out my repositories to see what I'm building!</i><br/><br/>
+  <a href="https://github.com/AWAISALISHAH494?tab=repositories&q=&type=&language=python&sort=stargazers">
+    <img src="https://img.shields.io/badge/🐍_Python_Projects-View-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Projects" />
+  </a>
+  <a href="https://github.com/AWAISALISHAH494?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://img.shields.io/badge/⭐_All_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
 </p>
 
