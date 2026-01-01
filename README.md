@@ -88,18 +88,17 @@ I love working at the intersection of **backend development + cybersecurity**, e
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AWAISALISHAH494&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=AWAISALISHAH494&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🏆 Achievements
 
