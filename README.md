@@ -192,19 +192,19 @@ dev = AwaisAliShah()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AWAISALISHAH494&theme=onestar&row=1&margin-w=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AWAISALISHAH494&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+<details>
+<summary><b>🏆 GitHub Achievements</b></summary>
+<br/>
+
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWAISALISHAH494&theme=tokyonight)
+
+</details>
 
 ---
 
