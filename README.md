@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <b>🚀 Building secure, scalable backend systems & REST APIs</b><br/>
-  <i>Making systems faster, stronger, and secure by design 🔐</i>
+  <b>Building secure, scalable backend systems & REST APIs</b><br/>
+  <i>Making systems faster, stronger, and secure by design </i>
 </p>
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```python
 class AwaisAliShah:
@@ -47,7 +47,7 @@ class AwaisAliShah:
         return ["Kubernetes", "CI/CD Pipelines", "Cloud-Native Architecture"]
     
     def fun_fact(self):
-        return "I break systems ethically to make them stronger 🔐"
+        return "I break systems ethically to make them stronger "
 
 dev = AwaisAliShah()
 ```
@@ -100,7 +100,7 @@ dev = AwaisAliShah()
 ## 💻 Tech Stack
 
 <details open>
-<summary><b>🧠 Backend & APIs</b></summary>
+<summary><b> Backend & APIs</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -114,7 +114,7 @@ dev = AwaisAliShah()
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b> Databases</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -125,7 +125,7 @@ dev = AwaisAliShah()
 </details>
 
 <details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>DevOps & Cloud</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -139,7 +139,7 @@ dev = AwaisAliShah()
 </details>
 
 <details open>
-<summary><b>⚙️ Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -152,7 +152,7 @@ dev = AwaisAliShah()
 </details>
 
 <details>
-<summary><b>🔒 Security & Testing</b></summary>
+<summary><b> Security & Testing</b></summary>
 <br/>
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -162,7 +162,7 @@ dev = AwaisAliShah()
 </details>
 
 <details>
-<summary><b>🎨 Frontend & Visualization</b></summary>
+<summary><b>Frontend & Visualization</b></summary>
 <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -176,7 +176,7 @@ dev = AwaisAliShah()
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&count_private=true" />
