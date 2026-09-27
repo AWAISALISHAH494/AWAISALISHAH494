@@ -171,7 +171,7 @@ awais = AwaisAliShah()
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -179,7 +179,15 @@ awais = AwaisAliShah()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AWAISALISHAH494&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -189,6 +197,12 @@ awais = AwaisAliShah()
 <p align="center">
   <img src="https://ghchart.rshah.org/1F3864/AWAISALISHAH494" alt="Contribution Heatmap" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake.svg" />
+</picture>
 
 <details open>
 <summary><b>GitHub Achievements</b></summary>
