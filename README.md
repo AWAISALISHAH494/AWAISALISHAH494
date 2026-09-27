@@ -171,7 +171,7 @@ awais = AwaisAliShah()
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@ awais = AwaisAliShah()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -187,10 +187,10 @@ awais = AwaisAliShah()
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AWAISALISHAH494&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/1F3864/AWAISALISHAH494" alt="Contribution Heatmap" />
 </p>
 
-<details>
+<details open>
 <summary><b>GitHub Achievements</b></summary>
 <br/>
 
