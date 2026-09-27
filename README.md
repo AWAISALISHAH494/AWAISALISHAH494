@@ -1,91 +1,78 @@
-<div align="center">
-  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Awais+Ali+Shah;Python+Django+Backend+Developer;Security+%26+DevOps+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Awais+Ali+Shah;Python+%2F+Django+Backend+Developer;DevOps+%26+Cloud+Infrastructure+Engineer;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Security%20%26%20APIs-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-1F3864?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-APIs%20%26%20Infrastructure-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan-4ECDC4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Building secure, scalable backend systems & REST APIs</b><br/>
-  <i>Making systems faster, stronger, and secure by design </i>
+  <b>Backend Developer (Python/Django) · DevOps Engineer</b><br/>
+  <i>Designing REST APIs and the infrastructure that ships them reliably</i>
 </p>
 
 ---
 
-## About Me
+## About
 
 ```python
 class AwaisAliShah:
     def __init__(self):
-        self.username = "AWAISALISHAH494"
-        self.role = "Python Django Backend Developer"
-        self.location = "Pakistan 🇵🇰"
+        self.role = "Backend Developer (Python/Django) | DevOps Engineer"
+        self.location = "Pakistan"
         self.focus_areas = [
-            "REST API Development",
-            "Database Engineering", 
-            "Security Testing",
-            "Scalable Deployments",
-            "DevOps & Cloud"
+            "REST API Design & Development",
+            "Database Engineering & Optimization",
+            "Containerized Deployments (Docker, Kubernetes)",
+            "CI/CD Automation & Infrastructure as Code",
+            "Application Security Fundamentals",
         ]
-        
+
     def current_work(self):
         return {
-            "building": "Django & DRF-based backend systems",
-            "optimizing": "Database performance & query efficiency",
-            "deploying": "Dockerized microservices",
-            "securing": "API endpoints & authentication flows"
+            "building": "Django & DRF backend systems with JWT/OAuth2 auth",
+            "optimizing": "PostgreSQL query performance and Redis caching",
+            "deploying": "Containerized microservices on Kubernetes",
+            "automating": "CI/CD pipelines with GitHub Actions",
         }
-    
-    def currently_learning(self):
-        return ["Kubernetes", "CI/CD Pipelines", "Cloud-Native Architecture"]
-    
-    def fun_fact(self):
-        return "I break systems ethically to make them stronger "
 
-dev = AwaisAliShah()
+    def currently_learning(self):
+        return ["Advanced Kubernetes networking", "Service mesh architecture", "Terraform modules at scale"]
+
+awais = AwaisAliShah()
 ```
 
-### 🔭 What I'm Working On
-- 🏗️ **Django & DRF** backend systems with RESTful APIs
-- 🗄️ **Database optimization** and query performance tuning
-- 🐳 **Dockerized environments** for scalable deployments
-- 🔒 **Security-first** architecture and penetration testing
+### What I'm Working On
+- Django REST Framework backend systems with secure, versioned APIs
+- Database performance tuning — query optimization, indexing, Redis caching
+- Containerized deployments on Docker and Kubernetes, provisioned with Terraform
+- CI/CD pipelines with GitHub Actions, targeting zero-downtime releases
+- Baseline observability with Prometheus and Grafana
 
-### 🌱 Currently Learning
-- ☸️ **Kubernetes** for container orchestration
-- 🔄 **CI/CD pipelines** with GitHub Actions
-- ☁️ **Cloud-native** architectures (AWS, Azure)
-- 🛡️ **Advanced security** patterns and best practices
+### Currently Learning
+- Kubernetes networking and service mesh patterns
+- Infrastructure as Code at scale (Terraform modules, remote state)
+- Cloud-native architecture across AWS and adjacent providers
+- Applied application security and secure-by-design practices
 
-### 🤝 Open to Collaborate On
-- 🌟 Open-source Django projects
-- 🏢 Backend-heavy enterprise systems
-- 🔐 Security-focused applications
-- 📚 Educational tech content creation
+### Open to Collaborate On
+- Open-source Django and DRF projects
+- Backend-heavy systems with real infrastructure requirements
+- DevOps tooling, CI/CD pipelines, and deployment automation
+- Security-focused backend applications
 
-### 💬 Ask Me About
-`Django` • `DRF` • `Backend Architecture` • `PostgreSQL` • `API Security` • `Docker` • `Pentesting` • `Deployment Strategies`
+### Ask Me About
+`Django` · `DRF` · `PostgreSQL` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD` · `API Security`
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/awais-ali-shah-559355281" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/its_me_awaiss" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@python.django.dev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="mailto:awaisalishah02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -97,24 +84,23 @@ dev = AwaisAliShah()
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b> Backend & APIs</b></summary>
+<summary><b>Backend & APIs</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b> Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -125,26 +111,34 @@ dev = AwaisAliShah()
 </details>
 
 <details open>
-<summary><b>DevOps & Cloud</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
 <details open>
+<summary><b>CI/CD & Monitoring</b></summary>
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</details>
+
+<details>
 <summary><b>Tools & Platforms</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -152,7 +146,7 @@ dev = AwaisAliShah()
 </details>
 
 <details>
-<summary><b> Security & Testing</b></summary>
+<summary><b>Security & Testing</b></summary>
 <br/>
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -169,8 +163,6 @@ dev = AwaisAliShah()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
@@ -179,27 +171,27 @@ dev = AwaisAliShah()
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AWAISALISHAH494&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AWAISALISHAH494&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AWAISALISHAH494&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <details>
-<summary><b>🏆 GitHub Achievements</b></summary>
+<summary><b>GitHub Achievements</b></summary>
 <br/>
 
 ![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWAISALISHAH494&theme=tokyonight)
@@ -208,63 +200,38 @@ dev = AwaisAliShah()
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/output/github-snake.svg" />
-</picture>
-
----
-
-## ✍️ Random Dev Quote
+## Featured Projects
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
-## � Featured Projects
-
-<p align="center">
-  <i>Check out my repositories to see what I'm building!</i><br/><br/>
+  <i>Explore my repositories for backend, DevOps, and infrastructure work.</i><br/><br/>
   <a href="https://github.com/AWAISALISHAH494?tab=repositories&q=&type=&language=python&sort=stargazers">
-    <img src="https://img.shields.io/badge/🐍_Python_Projects-View-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Projects" />
+    <img src="https://img.shields.io/badge/Python_Projects-View-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Projects" />
   </a>
   <a href="https://github.com/AWAISALISHAH494?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/⭐_All_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+    <img src="https://img.shields.io/badge/All_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 <p align="center">
-  💼 <b>Professional:</b> <a href="https://www.linkedin.com/in/awais-ali-shah-559355281">LinkedIn</a><br/>
-  📧 <b>Email:</b> <a href="mailto:awaisalishah02@gmail.com">awaisalishah02@gmail.com</a><br/>
-  🐙 <b>GitHub:</b> <a href="https://github.com/AWAISALISHAH494">@AWAISALISHAH494</a><br/>
-  📱 <b>Social:</b> <a href="https://www.instagram.com/its_me_awaiss">Instagram</a> • <a href="https://www.tiktok.com/@python.django.dev">TikTok</a>
+  <b>Professional:</b> <a href="https://www.linkedin.com/in/awais-ali-shah-559355281">LinkedIn</a><br/>
+  <b>Email:</b> <a href="mailto:awaisalishah02@gmail.com">awaisalishah02@gmail.com</a><br/>
+  <b>GitHub:</b> <a href="https://github.com/AWAISALISHAH494">@AWAISALISHAH494</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AWAISALISHAH494&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AWAISALISHAH494&label=Profile%20Views&color=1F3864&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
 
----
-
-<h3 align="center">
-  ⭐ If you appreciate clean backend code, secure systems & triggered learning — feel free to follow! ⭐
-</h3>
-
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
