@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <b>Building secure, scalable backend systems & REST APIs</b><br/>
-  <i>Making systems faster, stronger, and secure by design </i>
+  <b>Backend Developer (Python/Django) · DevOps Engineer </b><br/>
+  <i>Designing REST APIs and the infrastructure that ships them reliably </i>
 </p>
 
 ---
