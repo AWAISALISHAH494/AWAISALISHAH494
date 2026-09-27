@@ -133,7 +133,7 @@ awais = AwaisAliShah()
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Platforms</b></summary>
 <br/>
 
@@ -145,7 +145,7 @@ awais = AwaisAliShah()
 
 </details>
 
-<details>
+<details open>
 <summary><b>Security & Testing</b></summary>
 <br/>
 
@@ -155,7 +155,7 @@ awais = AwaisAliShah()
 
 </details>
 
-<details>
+<details open>
 <summary><b>Frontend & Visualization</b></summary>
 <br/>
 
@@ -171,7 +171,7 @@ awais = AwaisAliShah()
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWAISALISHAH494&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/main/generated/overview.svg" alt="GitHub Stats Overview" />
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@ awais = AwaisAliShah()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWAISALISHAH494&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/AWAISALISHAH494/AWAISALISHAH494/main/generated/languages.svg" alt="Top Languages" />
 </p>
 
 ---
